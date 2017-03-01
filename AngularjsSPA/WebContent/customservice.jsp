@@ -20,6 +20,6 @@ app.controller('myctrl',function(){
 	
 });
 </script>
-hai hello world
+hai
 </body>
 </html>
